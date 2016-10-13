@@ -18,5 +18,15 @@ body {
 
 .images {
     width: 10%;
-    padding-left: 4%
+    padding-left: 10px
   }
+
+.youtube {
+  width: 10%
+  padding-left: 10px
+}
+
+.transition:hover {
+  width: 15%;
+  transition: 1s;
+}
