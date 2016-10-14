@@ -18,13 +18,12 @@ body {
 
 .images {
     width: 10%;
-    padding-left: 10px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
     transition: 1s;
   }
 
-.transition:hover {
-  width: 12.5%;
-}
+.images:hover{ transform:scale(1.4);}
 
 .div {
   margin: auto;
